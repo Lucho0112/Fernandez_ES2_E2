@@ -1,0 +1,43 @@
+.formulario {
+    width: 600px;
+    min-height: 450px;
+    background: rgb(133, 236, 129);
+    padding: 40px;
+    border: 3px solid rgb(48, 184, 36);
+    border-radius: 12px;
+    margin: auto;
+    text-align: left;
+}
+
+.formulario1 {
+    width: 600px;
+    min-height: 40px;
+    background: rgb(53, 235, 226);
+    padding: 40px;
+    border: 3px solid rgb(46, 23, 250);
+    border-radius: 12px;
+    margin: auto;
+    text-align: left;
+}
+
+.formulario2 {
+    width: 600px;
+    min-height: 40px;
+    background: rgb(255, 255, 255);
+    padding: 40px;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    margin: auto;
+    text-align: left;
+}
+
+#texto {
+  font-size: 20px;
+}
+
+.img {
+    width: 200px;
+    height: auto;
+    margin: 20px;
+    border: none;
+}
