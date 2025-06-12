@@ -155,11 +155,11 @@ function imagenFondo() {
 }
 
 function cambiarBordes() {
-    const c = document.getElementById("formulario2");
-    if (c.style.border === "3px solid black") {
-        c.style.border = "10px solid red";
+    const borde = document.getElementById("formulario2");
+    if (borde.style.border === "3px solid black") {
+        borde.style.border = "10px solid red";
     } else {
-        c.style.border = "3px solid black";
+        borde.style.border = "3px solid black";
     }
 }
 
